@@ -40,7 +40,10 @@ schema = {
     "variable_entry": {"type": "object"}
   }
 }
-# "int_missing_value",
+# "int_missing_value", - required
+
+
+
 
 variable_schema = {
         "type": "object",
